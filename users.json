@@ -1,0 +1,42 @@
+[
+  {
+    "firstname": "hj",
+    "lastname": "jhj",
+    "email": "hkh2@b.com",
+    "password": "JGJHG",
+    "dob": "2025-01-01",
+    "gender": "female",
+    "profession": "JHJ",
+    "education": "KHKH"
+  },
+  {
+    "firstname": "jhj",
+    "lastname": "jgj",
+    "email": "khk@jg.com",
+    "password": "jgh",
+    "dob": "2024-12-31",
+    "gender": "male",
+    "profession": "h",
+    "education": "bn"
+  },
+  {
+    "firstname": "Deepu",
+    "lastname": "O",
+    "email": "deepu@gmail.com",
+    "password": "Creative@22",
+    "dob": "1994-07-29",
+    "gender": "female",
+    "profession": "Developer",
+    "education": "B.Tech(c.s.e)"
+  },
+  {
+    "firstname": "Dedeepthika",
+    "lastname": "Obillaneni",
+    "email": "dedeepthika.o@gmail.com",
+    "password": "Creative@22",
+    "dob": "1994-07-29",
+    "gender": "female",
+    "profession": "Developer",
+    "education": "B.Tech(C.S.E)"
+  }
+]
